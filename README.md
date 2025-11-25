@@ -125,7 +125,7 @@ streamlit run app.py
 
 ## 📝 License
 
-This project is open-source and free to use.
+This project is licensed under the **MIT License**.
 
 ---
 
