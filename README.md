@@ -34,8 +34,7 @@ Works with the well-known **creditcard.csv** dataset from Kaggle.
 ├── requirements.txt
 └── README.md
 
-yaml
-Copy code
+
 
 ---
 
@@ -53,10 +52,14 @@ Copy code
 
 ---
 
-## 📊 Dataset
+## Dataset
 
-This project uses the **Credit Card Fraud Detection** dataset from Kaggle.  
-Download **creditcard.csv** and place it next to `app.py`.
+This project uses the publicly available **Credit Card Fraud Detection Dataset** from Kaggle.
+
+Dataset link:  
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
+
+Download the dataset from Kaggle and place the `creditcard.csv` file inside the project directory before running the app.
 
 ---
 
